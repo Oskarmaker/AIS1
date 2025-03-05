@@ -7,3 +7,5 @@ branch1: first
 branch1: second
 branch1: third
 
+branch1: fourth
+
