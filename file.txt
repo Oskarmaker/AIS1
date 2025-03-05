@@ -1,2 +1,3 @@
 branch1: first
 branch1: second
+branch1: third
