@@ -11,3 +11,4 @@ branch1: fourth
 
 branch1: fifth
 branch1: sixth
+branch1: seventh
